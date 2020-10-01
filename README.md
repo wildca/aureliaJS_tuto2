@@ -1,6 +1,7 @@
 # `aurelia-js-tuto-2`
 
 
+
 This project is bootstrapped by [aurelia-cli](https://github.com/aurelia/cli).
 
 For more information, go to https://aurelia.io/docs/cli/webpack
